@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  Host_C.cpp
+d:\study\v\pp\cursova vd\host_c\host_c.cpp(40): warning C4474: "printf" : для строки формата передано слишком много аргументов
+  d:\study\v\pp\cursova vd\host_c\host_c.cpp(40): note: заполнители и их параметры ожидают переменное число аргументов в количестве 0, но было предоставлено 1
+  Host_C.vcxproj -> D:\Study\V\PP\Cursova VD\Debug\Host_4C.exe
+  Host_C.vcxproj -> D:\Study\V\PP\Cursova VD\Debug\Host_4C.pdb (Full PDB)

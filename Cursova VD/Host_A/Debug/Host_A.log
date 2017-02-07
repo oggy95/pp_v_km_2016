@@ -1,0 +1,21 @@
+﻿C:\Program Files\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Host_A.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+cl : командная строка warning D9025: переопределение "/sdl-" на "/GS-"
+  stdafx.cpp
+cl : командная строка warning D9025: переопределение "/sdl-" на "/GS-"
+  Host_A.cpp
+d:\study\v\pp\cursova vd\host_a\host_a.cpp(31): warning C4474: "printf" : для строки формата передано слишком много аргументов
+  d:\study\v\pp\cursova vd\host_a\host_a.cpp(31): note: заполнители и их параметры ожидают переменное число аргументов в количестве 0, но было предоставлено 1
+d:\study\v\pp\cursova vd\host_a\host_a.cpp(40): warning C4474: "printf" : для строки формата передано слишком много аргументов
+  d:\study\v\pp\cursova vd\host_a\host_a.cpp(40): note: заполнители и их параметры ожидают переменное число аргументов в количестве 0, но было предоставлено 1
+d:\study\v\pp\cursova vd\host_a\host_a.cpp(84): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files\windows kits\8.1\include\um\winsock2.h(1850): note:  см. объявление "inet_addr"
+d:\study\v\pp\cursova vd\host_a\host_a.cpp(146): warning C4474: "printf" : для строки формата передано слишком много аргументов
+  d:\study\v\pp\cursova vd\host_a\host_a.cpp(146): note: заполнители и их параметры ожидают переменное число аргументов в количестве 0, но было предоставлено 1
+d:\study\v\pp\cursova vd\host_a\host_a.cpp(157): warning C4474: "printf" : для строки формата передано слишком много аргументов
+  d:\study\v\pp\cursova vd\host_a\host_a.cpp(157): note: заполнители и их параметры ожидают переменное число аргументов в количестве 0, но было предоставлено 1
+d:\study\v\pp\cursova vd\host_a\host_a.cpp(197): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note:  см. объявление "fopen"
+d:\study\v\pp\cursova vd\host_a\host_a.cpp(209): warning C4474: "printf" : для строки формата передано слишком много аргументов
+  d:\study\v\pp\cursova vd\host_a\host_a.cpp(209): note: заполнители и их параметры ожидают переменное число аргументов в количестве 0, но было предоставлено 1
+  Host_A.vcxproj -> D:\Study\V\PP\Cursova VD\Debug\Host_1A.exe
+  Host_A.vcxproj -> D:\Study\V\PP\Cursova VD\Debug\Host_1A.pdb (Full PDB)

@@ -1,0 +1,11 @@
+﻿  stdafx.cpp
+  Host_B.cpp
+d:\study\v\pp\cursova vd\host_b\host_b.cpp(60): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note:  см. объявление "fopen"
+d:\study\v\pp\cursova vd\host_b\host_b.cpp(63): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note:  см. объявление "fscanf"
+d:\study\v\pp\cursova vd\host_b\host_b.cpp(79): warning C4474: "printf" : для строки формата передано слишком много аргументов
+  d:\study\v\pp\cursova vd\host_b\host_b.cpp(79): note: заполнители и их параметры ожидают переменное число аргументов в количестве 0, но было предоставлено 1
+d:\study\v\pp\cursova vd\host_b\host_b.cpp(29): warning C4700: использована неинициализированная локальная переменная "PipeHandle"
+  Host_B.vcxproj -> D:\Study\V\PP\Cursova VD\Debug\Host_3B.exe
+  Host_B.vcxproj -> D:\Study\V\PP\Cursova VD\Debug\Host_3B.pdb (Full PDB)

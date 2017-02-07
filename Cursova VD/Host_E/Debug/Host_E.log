@@ -1,0 +1,15 @@
+﻿C:\Program Files\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Host_E.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  stdafx.cpp
+  Host_E.cpp
+d:\study\v\pp\cursova vd\host_e\host_e.cpp(35): warning C4474: "printf" : для строки формата передано слишком много аргументов
+  d:\study\v\pp\cursova vd\host_e\host_e.cpp(35): note: заполнители и их параметры ожидают переменное число аргументов в количестве 0, но было предоставлено 1
+d:\study\v\pp\cursova vd\host_e\host_e.cpp(44): warning C4474: "printf" : для строки формата передано слишком много аргументов
+  d:\study\v\pp\cursova vd\host_e\host_e.cpp(44): note: заполнители и их параметры ожидают переменное число аргументов в количестве 0, но было предоставлено 1
+d:\study\v\pp\cursova vd\host_e\host_e.cpp(149): warning C4474: "printf" : для строки формата передано слишком много аргументов
+  d:\study\v\pp\cursova vd\host_e\host_e.cpp(149): note: заполнители и их параметры ожидают переменное число аргументов в количестве 0, но было предоставлено 1
+d:\study\v\pp\cursova vd\host_e\host_e.cpp(160): warning C4474: "printf" : для строки формата передано слишком много аргументов
+  d:\study\v\pp\cursova vd\host_e\host_e.cpp(160): note: заполнители и их параметры ожидают переменное число аргументов в количестве 0, но было предоставлено 1
+d:\study\v\pp\cursova vd\host_e\host_e.cpp(201): warning C4474: "printf" : для строки формата передано слишком много аргументов
+  d:\study\v\pp\cursova vd\host_e\host_e.cpp(201): note: заполнители и их параметры ожидают переменное число аргументов в количестве 0, но было предоставлено 1
+  Host_E.vcxproj -> D:\Study\V\PP\Cursova VD\Debug\Host_5E.exe
+  Host_E.vcxproj -> D:\Study\V\PP\Cursova VD\Debug\Host_5E.pdb (Full PDB)
